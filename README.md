@@ -7,7 +7,7 @@ Follow these steps to set up and run the Voice Chess project from GitHub:
 📥 Clone the Repository
 Open a terminal or command prompt and run:
 
-bash Copy Edit git clone https://github.com/vANSHBHATT2527/Voice_Chess.git cd Voice_Chess 2. 🐍 Set Up a Virtual Environment (Recommended) This keeps your dependencies isolated:
+bash Copy Edit git clone cd Voice_Chess 2. 🐍 Set Up a Virtual Environment (Recommended) This keeps your dependencies isolated:
 
 bash Copy Edit
 
