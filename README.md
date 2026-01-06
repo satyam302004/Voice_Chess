@@ -9,7 +9,7 @@ Open a terminal or command prompt and run:
 
 bash Copy Edit git clone cd Voice_Chess 2. 🐍 Set Up a Virtual Environment (Recommended) This keeps your dependencies isolated:
 
-bash Copy Edit
+bash Copy Edit https://github.com/satyam302004/Voice_Chess/tree/main
 
 For Windows
 python -m venv venv venv\Scripts\activate
